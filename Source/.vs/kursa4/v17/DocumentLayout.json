@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vadim\\Desktop\\kursa4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF83AA5-1878-3414-905D-90FE383B27DC}|Assembly-CSharp.csproj|C:\\Users\\vadim\\Desktop\\kursa4\\assets\\scripts\\raycast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF83AA5-1878-3414-905D-90FE383B27DC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF83AA5-1878-3414-905D-90FE383B27DC}|Assembly-CSharp.csproj|C:\\Users\\vadim\\Desktop\\kursa4\\assets\\scripts\\raycastmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF83AA5-1878-3414-905D-90FE383B27DC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycastmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF83AA5-1878-3414-905D-90FE383B27DC}|Assembly-CSharp.csproj|c:\\users\\vadim\\desktop\\kursa4\\assets\\scripts\\teleportation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF83AA5-1878-3414-905D-90FE383B27DC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\teleportation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF83AA5-1878-3414-905D-90FE383B27DC}|Assembly-CSharp.csproj|C:\\Users\\vadim\\Desktop\\kursa4\\assets\\scripts\\objectclickanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF83AA5-1878-3414-905D-90FE383B27DC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectclickanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF83AA5-1878-3414-905D-90FE383B27DC}|Assembly-CSharp.csproj|C:\\Users\\vadim\\Desktop\\kursa4\\assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF83AA5-1878-3414-905D-90FE383B27DC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF83AA5-1878-3414-905D-90FE383B27DC}|Assembly-CSharp.csproj|C:\\Users\\vadim\\Desktop\\kursa4\\assets\\scripts\\clickmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF83AA5-1878-3414-905D-90FE383B27DC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clickmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\kursa4\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\kursa4\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:44:18.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClickMenu.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\kursa4\\Assets\\Scripts\\ClickMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClickMenu.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\kursa4\\Assets\\Scripts\\ClickMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClickMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:51:08.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObjectClickAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\kursa4\\Assets\\Scripts\\ObjectClickAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectClickAnimation.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\kursa4\\Assets\\Scripts\\ObjectClickAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectClickAnimation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:18:56.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teleportation.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\kursa4\\Assets\\Scripts\\Teleportation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Teleportation.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\kursa4\\Assets\\Scripts\\Teleportation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Teleportation.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAADwvw4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:30:15.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RaycastManager.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\kursa4\\Assets\\Scripts\\RaycastManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RaycastManager.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\kursa4\\Assets\\Scripts\\RaycastManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RaycastManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:33:49.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "raycast.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\Desktop\\kursa4\\Assets\\Scripts\\raycast.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\raycast.cs",
+              "ToolTip": "C:\\Users\\vadim\\Desktop\\kursa4\\Assets\\Scripts\\raycast.cs",
+              "RelativeToolTip": "Assets\\Scripts\\raycast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:32:56.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
